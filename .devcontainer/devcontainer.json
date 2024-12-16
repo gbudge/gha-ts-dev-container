@@ -3,12 +3,12 @@
 {
 	"name": "GitHub Actions Dev Container",
 
-	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	// "image": "mcr.microsoft.com/devcontainers/typescript-node:1-22-bookworm"
+	"image": "ghcr.io/gbudge/gha-ts-dev-cotnainer:latest",
 
-	"build": {
-	  "dockerfile": "Dockerfile"
-	},
+	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
+	// "build": {
+	//   "dockerfile": "Dockerfile"
+	// },
 
 	// Configure tool-specific properties.
 	"customizations": {
