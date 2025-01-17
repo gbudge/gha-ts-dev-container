@@ -2,6 +2,10 @@ name: "Dev Container Template Action"
 
 description: "An example Action using a Dev Container template."
 
+icon: "box"
+
+color: "orange"
+
 runs:
   using: "node16"
   main: "dist/main.js"
