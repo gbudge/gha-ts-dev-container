@@ -20,8 +20,10 @@ Pre-installed Tools:
    cd my-github-action
    ```
 
-2. Open the folder in VS Code and start the Dev Container.
+2. Open the folder in VS Code and start the Dev Container:
 
+   <kbd>![30176D3F-FD6B-4488-B513-08E2F20AD244](https://github.com/user-attachments/assets/3546cba9-61b6-4534-9313-37a8a3c877a8)</kbd>
+   
 3. Run the setup script to initialize a new project:
    ```bash
    .devcontainer/setup.sh
