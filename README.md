@@ -29,15 +29,17 @@ Pre-installed Tools:
    .devcontainer/setup.sh
    ```
 
-4. Start developing your GitHub Action in the `src/` directory!
+4. Update the `package.json` file (e.g. the `name`, `version`, `description`, etc.)
+   
+5. Start developing your GitHub Action in the `src/` directory!
 
-5. Build and test with:
+6. Build and test with:
    ```bash
    npm run build
    npm run test
    ```
 
-6. Happy coding.
+7. Happy coding.
 
 ## Project Structure
 
