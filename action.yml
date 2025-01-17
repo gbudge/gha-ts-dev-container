@@ -1,6 +1,6 @@
-name: "New GitHub Action"
+name: "Dev Container Template Action"
 
-description: "Your reusable GitHub Action"
+description: "An example Action using a Dev Container template."
 
 runs:
   using: "node16"
