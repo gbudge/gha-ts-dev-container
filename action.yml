@@ -1,10 +1,10 @@
 name: "Dev Container Template Action"
-
 description: "An example Action using a Dev Container template."
+author: "Gareth Budge"
 
-icon: "box"
-
-color: "orange"
+branding:
+  icon: "box"
+  color: "orange"
 
 runs:
   using: "node16"
