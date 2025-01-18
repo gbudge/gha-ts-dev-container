@@ -3,7 +3,7 @@
 {
 	"name": "GitHub Actions Dev Container",
 
-	"image": "ghcr.io/gbudge/gha-ts-dev-cotnainer:latest",
+	"image": "ghcr.io/gbudge/gha-ts-dev-container:latest",
 
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
 	// "build": {
